@@ -23,7 +23,6 @@ baseurl: "/musingsofanirban"
 github_username: Onirban1234
 minimal_mistakes_skin: default
 search: true
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
